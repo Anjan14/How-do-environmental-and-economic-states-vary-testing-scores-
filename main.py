@@ -2,9 +2,8 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.neural_network import MLPRegressor
-from sklearn.linear_model import LinearRegression, LogisticRegression
 from sklearn.tree import DecisionTreeRegressor
-from sklearn.metrics import accuracy_score, r2_score, mean_squared_error
+from sklearn.metrics import r2_score, mean_squared_error
 import matplotlib.pyplot as plt
 
 
