@@ -1,10 +1,11 @@
 # Test-Score-Predictions
+
+# W.I.P.....
+
 https://www.kaggle.com/datasets/spscientist/students-performance-in-exams/discussion 
 The dataset is a representation of fictional data about high school students' performance on a multi-subject exam, based on environmental and economic status factors.
 TO DO:
 Define end result goals, functionality wise as well as statistically/visually (graphs/charts).
-
-Preprocessing is likely useless, however we can still try.
 
 Import data CSV into Python using Pandas
 
